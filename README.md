@@ -1,5 +1,5 @@
 # votos-2022
-#cod em python para resultado das eleições, com atualização de 90 segundos.
+#cod em python para apuração de votos com atualização de 90 segundos.
 
 
 import time
